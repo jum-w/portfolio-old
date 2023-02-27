@@ -1,6 +1,1 @@
-https://jums.uk
-
-Personal portfolio website, to showcase my completed projects and current projects. 
-
-
-University projects are not included in this.
+Old portfolio website, now use [this](https://github.com/jum-w/portfolio)
